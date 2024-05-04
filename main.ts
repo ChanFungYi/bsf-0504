@@ -50,7 +50,7 @@ basic.clearScreen()
 naturalScience.microIoT_WIFI("ChanFungYi-iPhone", "56781234")
 naturalScience.microIoT_MQTT(
 "I1fmeufSR",
-"S1Bm6uBIgz",
+"",
 "CgGZ6XBIR",
 naturalScience.SERVERS.English
 )
