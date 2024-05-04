@@ -1,5 +1,6 @@
 {
     "name": "BSF Project V3",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
