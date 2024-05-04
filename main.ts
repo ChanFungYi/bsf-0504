@@ -47,7 +47,7 @@ function TVOC (text: string) {
 let N = 0
 basic.showIcon(IconNames.Heart)
 basic.clearScreen()
-naturalScience.microIoT_WIFI("TP-Link_E67C_2.4G", "Kapol0922^")
+naturalScience.microIoT_WIFI("ChanFungYi-iPhone", "56781234")
 naturalScience.microIoT_MQTT(
 "I1fmeufSR",
 "S1Bm6uBIgz",
